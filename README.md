@@ -1,10 +1,8 @@
-# Andre Lorente Rodrigues
-## Teste
-### Hi there 👋
+## 😎 Olá, meu nome é <strong>{André Lorente Rodrigues}!</strong>
 
-## 😎 Olá, meu nome é <strong>{seu nome}!</strong>
+👉 Trabalho, empresa própria e estudo. O que não sobra muito tempo pra hobbies. 
+Mas assistir um filme, ler um bom livro, passear um pouco com a esposa👩🏻 e os dogs 🐶🐕🐩 são algumas das atividades que sempre dá pra encontrar um jeitinho de realizar.
 
-> Faça uma breve aprensentação sobre você e a sua área.
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
