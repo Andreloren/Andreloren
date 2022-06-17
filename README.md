@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![card](https://github-readme-stats.vercel.app/api?username=Andreloren&theme=default&show_icons=true)](https://github.com/Andreloren/)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/Andreloren/)
