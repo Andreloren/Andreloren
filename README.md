@@ -1,6 +1,6 @@
 <h1 align="center">😎 Olá, meu nome é <strong>André Lorente Rodrigues!</strong></h1>
 
-<h3 align="center">Aluno da 8&ordf; Edição do Programa Starter Full Stack Web na Growdev.</h3> <br>
+<h3 align="center">Aluno da 8&ordf; Edição do Programa Starter Full Stack Web na Growdev.</h3> 
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -8,25 +8,14 @@
 
 💬 Experiência Profissional: 18 anos de experiência no ramo bancário, focado em financiamentos de veículos.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+🥳 Hobbies: Assistir um filme 🎥, ler um bom livro 📕,  uma viagema dois ✈,passear com a esposa👩🏻 e os dogs 🐶🐕🐩 são algumas das atividades que me realizam.
 
-👉 Hobbies: Trabalho, empresa própria e estudo. O que não sobra muito tempo pra hobbies. 
-Mas assistir um filme, ler um bom livro, passear um pouco com a esposa👩🏻 e os dogs 🐶🐕🐩 são algumas das atividades que sempre dá pra encontrar um jeitinho de realizar.
+🚀 Linguagem de Programação favorita: Estou aprendendo e aberto a todas elas.
 
-## 🚀 Minhas Skills
+💻 O que estou estudando atualmente: 
+<br>
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 ---
 
