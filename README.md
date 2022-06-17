@@ -2,6 +2,8 @@
 
 <h3 align="center">Aluno da 8&ordf; Edição do Programa Starter Full Stack Web na Growdev.</h3>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 👉 Trabalho, empresa própria e estudo. O que não sobra muito tempo pra hobbies. 
 Mas assistir um filme, ler um bom livro, passear um pouco com a esposa👩🏻 e os dogs 🐶🐕🐩 são algumas das atividades que sempre dá pra encontrar um jeitinho de realizar.
 👨🏻‍🎓
