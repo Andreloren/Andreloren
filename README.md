@@ -4,14 +4,14 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-👉 Trabalho, empresa própria e estudo. O que não sobra muito tempo pra hobbies. 
-Mas assistir um filme, ler um bom livro, passear um pouco com a esposa👩🏻 e os dogs 🐶🐕🐩 são algumas das atividades que sempre dá pra encontrar um jeitinho de realizar.
-👨🏻‍🎓
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+👨🏻‍🎓 Formação: Formado em Administração com Enfasê em Logística pela Universidade Anhanguera. Atualmente cursando Desenvolvimento Web Full Stack na Growdev.
+
+💬 Experiência Profissional: 18 anos de experiência no ramo bancário, focado em financiamentos de veículos.
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
-----
+👉 Hobbies: Trabalho, empresa própria e estudo. O que não sobra muito tempo pra hobbies. 
+Mas assistir um filme, ler um bom livro, passear um pouco com a esposa👩🏻 e os dogs 🐶🐕🐩 são algumas das atividades que sempre dá pra encontrar um jeitinho de realizar.
 
 ## 🚀 Minhas Skills
 
