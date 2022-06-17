@@ -31,7 +31,7 @@ Mas assistir um filme, ler um bom livro, passear um pouco com a esposa👩🏻 e
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+
 <!--
 **Andreloren/Andreloren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
