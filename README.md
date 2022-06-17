@@ -1,4 +1,4 @@
-## 😎 Olá, meu nome é <strong>André Lorente Rodrigues!</strong>
+<h1 align="center">😎 Olá, meu nome é <strong>André Lorente Rodrigues!</strong></h1>
 
 <h3 align="center">Aluno do programa Full stack web, Growdev🌟.</h3>
 
