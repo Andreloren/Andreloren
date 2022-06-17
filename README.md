@@ -1,4 +1,4 @@
-## 😎 Olá, meu nome é <strong>{André Lorente Rodrigues}!</strong>
+## 😎 Olá, meu nome é <strong>André Lorente Rodrigues!</strong>
 
 👉 Trabalho, empresa própria e estudo. O que não sobra muito tempo pra hobbies. 
 Mas assistir um filme, ler um bom livro, passear um pouco com a esposa👩🏻 e os dogs 🐶🐕🐩 são algumas das atividades que sempre dá pra encontrar um jeitinho de realizar.
