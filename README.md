@@ -1,6 +1,6 @@
-<h1 align="center">😎 Olá, meu nome é <strong>André Lorente Rodrigues!</strong></h1>
+<h2 align="center">😎 Olá, meu nome é <strong>André Lorente Rodrigues!</strong></h2>
 
-<h3 align="center">Aluno da 8&ordf; Edição do Programa Starter Full Stack Web na Growdev.</h3> 
+<h4 align="center">Aluno da 8&ordf; Edição do Programa Starter Full Stack Web na Growdev.</h4> 
 <br>
 <p><img align="right" src="https://github.com/Andreloren/Andreloren/blob/main/Images/programar-mao-massa.gif" alt="Mão na Massa" /></p>
 
