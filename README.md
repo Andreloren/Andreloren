@@ -2,17 +2,17 @@
 
 <h3 align="center">Aluno da 8&ordf; Edição do Programa Starter Full Stack Web na Growdev.</h3> 
 <br>
-<p><img align="right" src="C:\Users\Pet Lore\Desktop\Growdev\Aulas\Módulo 2\GitHub" alt="adam-pw" /></p>
+<p><img align="right" src="C:\Users\Pet Lore\Desktop\Growdev\Github\Andreloren\Images" alt="Mão na Massa" /></p>
 
 👨🏻‍🎓 Formação: Formado em Administração com Enfasê em Logística pela Universidade Anhanguera. Atualmente cursando Desenvolvimento Web Full Stack na Growdev.
 
 💬 Experiência Profissional: 18 anos de experiência no ramo bancário, focado em financiamentos de veículos.
 
-🥳 Hobbies: Assistir um filme 🎥, ler um bom livro 📕,  uma viagema dois ✈,passear com a esposa👩🏻 e os dogs 🐶🐕🐩 são algumas das atividades que me realizam.
+🥳 Hobbies: Assistir um filme 🎥, ler um bom livro 📕, uma viagema dois ✈,passear com a esposa👩🏻 e os dogs 🐶🐕🐩 são algumas das atividades que me realizam.
 
 🚀 Linguagem de Programação favorita: Estou aprendendo e aberto a todas elas.
 
-💻 O que estou estudando atualmente: 
+💻 O que estou estudando atualmente:
 <br>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![card](https://github-readme-stats.vercel.app/api?username=Andreloren&theme=dark&show_icons=true)](https://github.com/Andreloren/)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreloren&hide=html&layout=compact=true&theme=default)](https://github.com/Andreloren/)
