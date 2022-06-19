@@ -2,7 +2,7 @@
 
 <h4 align="center">Aluno da 8&ordf; Edição do Programa Starter Full Stack Web na Growdev.</h4>
 
-<p><img align="right" width="400" src="https://github.com/Andreloren/Andreloren/blob/main/Images/programar-mao-massa.gif" alt="Mão na Massa" /></p>
+<p><img align="right" width="400" src="" alt="" /></p>
 
 👨🏻‍🎓 Formação: Bacharel em Administração com ênfase em Logística pela Universidade Anhanguera. Atualmente cursando Desenvolvimento Web Full Stack na Growdev.
 
