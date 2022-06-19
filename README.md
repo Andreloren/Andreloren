@@ -1,7 +1,5 @@
 <h2 align="center"> Olá, meu nome é <strong>André Lorente Rodrigues!</strong></h2>
 
-<p><img align="right" width="400" src="" alt="" /></p>
-
 👨🏻‍🎓 Formação: Bacharel em Administração com ênfase em Logística pela Universidade Anhanguera. Atualmente cursando Desenvolvimento Web Full Stack na Growdev.
 
 👨‍💼 Experiência Profissional: Ampla experiência como administrador de empresas e no ramo bancário.
@@ -15,25 +13,12 @@
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 
----
+## <p><img align="right" width="600" src="https://github.com/Andreloren/Andreloren/blob/main/Images/programar-mao-massa.gif" alt="Digitando" /></p>
 
 ## ⭐ Informações sobre minha conta GitHub
 
-<!--
-**Andreloren/Andreloren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 [![card](https://github-readme-stats.vercel.app/api?username=Andreloren&theme=dark&show_icons=true)](https://github.com/Andreloren/)
 
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=Andreloren&hide=html&layout=compact=true&theme=default)](https://github.com/Andreloren/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreloren&hide=html&layout=compact=true&theme=default)](https://github.com/Andreloren/)
