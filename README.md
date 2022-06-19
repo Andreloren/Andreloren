@@ -15,12 +15,8 @@
 
 Conheça-me um pouco mais
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/andrelorente/"> Linkedin<br>
+<a target="_blank" href="https://www.linkedin.com/in/andrelorente/"> Linkedin <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-           <p> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-">
-</a></p>
 ![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]()
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
