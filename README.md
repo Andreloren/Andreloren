@@ -1,7 +1,5 @@
 <h2 align="center"> Olá, meu nome é <strong>André Lorente Rodrigues!</strong></h2>
 
-<h4 align="center"></h4>
-
 <p><img align="right" width="400" src="" alt="" /></p>
 
 👨🏻‍🎓 Formação: Bacharel em Administração com ênfase em Logística pela Universidade Anhanguera. Atualmente cursando Desenvolvimento Web Full Stack na Growdev.
@@ -38,4 +36,4 @@ Here are some ideas to get you started:
 
 [![card](https://github-readme-stats.vercel.app/api?username=Andreloren&theme=dark&show_icons=true)](https://github.com/Andreloren/)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreloren&hide=html&layout=compact=true&theme=default)](https://github.com/Andreloren/)
+[!(https://github-readme-stats.vercel.app/api/top-langs/?username=Andreloren&hide=html&layout=compact=true&theme=default)](https://github.com/Andreloren/)
