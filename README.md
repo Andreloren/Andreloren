@@ -1,18 +1,18 @@
 <h2 align="center"> Olá, meu nome é <strong>André Lorente Rodrigues!</strong></h2>
 
-<h4 align="center">Aluno da 8&ordf; Edição do Programa Starter Full Stack Web na Growdev.</h4>
+<h4 align="center"></h4>
 
 <p><img align="right" width="400" src="" alt="" /></p>
 
 👨🏻‍🎓 Formação: Bacharel em Administração com ênfase em Logística pela Universidade Anhanguera. Atualmente cursando Desenvolvimento Web Full Stack na Growdev.
 
-👨‍💼 Experiência Profissional: 18 anos de experiência no ramo bancário, focado em financiamentos de veículos.
+👨‍💼 Experiência Profissional: Ampla experiência como administrador de empresas e no ramo bancário.
 
-🥳 Hobbies: Assistir um filme 🎥, ler um bom livro 📕, uma viagem a dois ✈,passear com a esposa👩🏻 e os dogs 🐕🐩🐕‍🦺 são algumas das atividades que me realizam.
+🥳 Hobbies: Assistir filmes e séries 🎥, ler bons livros 📕, conhecer novos lugares com a esposa 💏 e curtir os cachorros são algumas das atividades que me realizam.
 
 🖥️ Linguagem de Programação favorita: Estou aprendendo e aberto a todas elas.
 
-📖 O que estou estudando atualmente:
+📖 O que estou estudando atualmente: Aluno da 8&ordf; Edição do Programa Starter Full Stack Web na Growdev.
 <br>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
