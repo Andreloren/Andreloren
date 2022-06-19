@@ -20,7 +20,7 @@
 
 ##
 
-<p><img src="https://github.com/Andreloren/Andreloren/blob/main/Images/programar-mao-massa.gif" alt="Digitando" /></p>
+<p align="center"><img src="https://github.com/Andreloren/Andreloren/blob/main/Images/programar-mao-massa.gif" alt="Digitando" /></p>
 
 ## ⭐ Informações sobre minha conta GitHub
 
