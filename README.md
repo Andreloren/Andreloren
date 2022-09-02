@@ -30,7 +30,3 @@
 ##
 
 <p align="center"><img src="https://github.com/Andreloren/Andreloren/blob/main/Images/Estudo_Bob.gif" alt="Bob" /></p>
-
-<a href="https://github.com/Andreloren">
-  <img align="center" src="https://camo.githubusercontent.com/d078018912c26ab025fbf61feb9673c623d54d9236618d45b53699db0d5a4c2d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4665686c7065267468656d653d68696768636f6e747261737426686964655f6c616e67735f62656c6f773d31" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreloren&amp;theme=highcontrast&amp;hide_langs_below=1" style="max-width: 100%;">
-</a>
