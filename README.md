@@ -21,6 +21,7 @@
 </p>
 <strong>Conheça-me um pouco mais:</strong><br>
 <br>
+<a href="https://www.linkedin.com/in/andrelorente/" rel="nofollow"><img src="https://camo.githubusercontent.com/a0f71b27667598daf1a79429415e47070c903e0957708569e1fad5712d71ae90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4163756e68612d2532333041363643322e7376673f7374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/Acunha-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/andrelorente/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a target="_blank" href="https://www.instagram.com/andre.lorente/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 
