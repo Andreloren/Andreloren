@@ -6,10 +6,12 @@
 
 🥳 Hobbies: Assistir filmes e séries 🎥, ler bons livros 📕, conhecer novos lugares com a esposa 💏 e curtir os cachorros são algumas das atividades que me realizam.
 
-🖥️ Linguagem de Programação favorita: Estou aprendendo e aberto a todas elas.
-
 📖 O que estou estudando atualmente: Aluno da 8&ordf; Edição do Programa Starter Full Stack Web na Growdev.
 <br>
+
+🖥️ Linguagem de Programação:
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/26f87c3a6f1f8cec16e6097a899afd4fd0e15fa1f1882046f24f8914b4c807ba/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f736865696c616163756e68613f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c"><img src="https://camo.githubusercontent.com/26f87c3a6f1f8cec16e6097a899afd4fd0e15fa1f1882046f24f8914b4c807ba/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f736865696c616163756e68613f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c" alt="Andre" data-canonical-src="https://img.shields.io/github/followers/Andreloren?label=follow&amp;style=social" style="max-width: 100%;"></a>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"></code>
