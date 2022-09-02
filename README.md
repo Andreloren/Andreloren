@@ -24,7 +24,7 @@
 <strong>Conheça-me um pouco mais:</strong><br>
 <br>
 <p>
-<a href="https://mailto:andre.lorente83@gmail.com" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/a75c1e7d0175346e425c70693da967793c9a2c673ff3c55f56dbe46954065921/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4541343333352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="azzar" height="30" data-canonical-src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" ></a>
+<a href="https://mailto:andre.lorente83@gmail.com" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/a75c1e7d0175346e425c70693da967793c9a2c673ff3c55f56dbe46954065921/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4541343333352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="azzar" data-canonical-src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" ></a>
 <a href="https://www.linkedin.com/in/andrelorente/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a target="_blank" href="https://www.instagram.com/andre.lorente/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </p>
