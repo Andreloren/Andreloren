@@ -34,4 +34,4 @@
 
 #################################################################################################
 
-<p align="center"><img src="images/Estudo_Bob.gif" alt="Bob" /></p>
+<p align="center"><img src="https://github.com/Andreloren/Andreloren/blob/main/Images/Estudo_Bob.gif" alt="Bob" /></p>
