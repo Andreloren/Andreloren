@@ -37,6 +37,6 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreloren&amp;layout=compact&amp;langs_count=7&amp;theme=noctis" style="max-width: 100%;">
 </a>
 
-#################################################################################################
+<h2 dir="auto"></h2>
 
 <p align="center"><img src="https://github.com/Andreloren/Andreloren/blob/main/Images/Estudo_Bob.gif" alt="Bob" /></p>
