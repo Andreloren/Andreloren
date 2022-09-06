@@ -9,7 +9,7 @@
 📖 O que estou estudando atualmente: Aluno da 8&ordf; Edição do Programa Starter Full Stack Web na Growdev.
 <br>
 
-🖥️ Linguagem de Programação e Ferramentas:
+🖥️ Ferramentas e Linguagens de Programação :
 
 <p>
 
