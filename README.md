@@ -9,7 +9,7 @@
 📖 O que estou estudando atualmente: Aluno da 8&ordf; Edição do Programa Starter Full Stack Web na Growdev.
 <br>
 
-🖥️ Linguagem de Programação:
+🖥️ Linguagem de Programação e Ferramentas:
 
 <p>
 
@@ -29,12 +29,9 @@
 
 <img style="width:45px; height:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
-
 <img style="width:45px; height:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 
-
 <img style="width:45px; height:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-
 
 <!--
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b1720e127ee280daab63f84b508b29abe2540b02f5f57675765ad07da1315241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35"><img src="https://camo.githubusercontent.com/b1720e127ee280daab63f84b508b29abe2540b02f5f57675765ad07da1315241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-333333?style=flat&amp;logo=HTML5" style="max-width: 100%;"></a>
