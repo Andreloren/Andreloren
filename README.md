@@ -33,7 +33,7 @@
 
 <img style="width:45px; height:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 
-<img style="width:45px; height:60px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img style="width:45px; height:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
 </p>
 <strong>Conheça-me um pouco mais:</strong><br>
